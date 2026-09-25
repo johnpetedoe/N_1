@@ -47,3 +47,9 @@ bool g(char**** pseudo_dynamic_laberynth, int start[4], int* seq)
 {
   
 }
+
+int main( void ) {
+   P( N_1 );
+   P( N_1->N_1_0 );
+   return();
+}
