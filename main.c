@@ -2,11 +2,11 @@
 
 typedef t_N typeof_N; 
 
-typedef struct s_N      {} t_N;
-typedef struct s_wall   {} t_wall;
-typedef struct s_door   {} t_door;
-typedef struct s_window {} t_window;
-typedef str
+typedef struct s_N        {} t_N;
+typedef struct s_wall     {} t_wall;
+typedef struct s_door     {} t_door;
+typedef struct s_window   {} t_window;
+typedef struct s_material {}
 typedef struct s_system 
 
 //11111 11111
