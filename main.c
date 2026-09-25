@@ -6,8 +6,8 @@ typedef struct s_N        {} t_N;
 typedef struct s_wall     {} t_wall;
 typedef struct s_door     {} t_door;
 typedef struct s_window   {} t_window;
-typedef struct s_material {}
-typedef struct s_system 
+typedef struct s_material {} t_material;
+typedef struct s_system   {} t_system:
 
 //11111 11111
 //11111 11111
